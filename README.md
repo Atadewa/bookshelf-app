@@ -30,12 +30,12 @@ Bookshelf App adalah sebuah aplikasi sederhana berbasis web yang memungkinkan pe
 - **CSS** untuk tata letak dan gaya visual.
 - **JavaScript** untuk logika aplikasi, termasuk pengelolaan localStorage.
 
-## Cara Menggunakan
+## Cara Penggunaan
 
-1. Buka file `index.html` di browser.
+1. Buka file `index.html` di browser atau kunjungi [Website Bookshelf App](https://atadewa.github.io/bookshelf-app/).
 2. Tambahkan buku baru dengan mengisi formulir di bagian "Tambah Buku Baru".
 3. Gunakan tombol yang tersedia untuk menandai buku sebagai selesai dibaca, mengedit, atau menghapusnya.
-4. Cari buku dengan mengetikkan judul pada bagian "Cari Buku".
+4. Cari buku dengan mengetikkan judul pada bagian "Cari Buku Berdasarkan Judul".
 
 ## Tentang Proyek
 
